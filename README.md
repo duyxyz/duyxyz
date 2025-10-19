@@ -1,3 +1,3 @@
 ```
-irm "https://duyxyz.github.io/Tool/ToolkitMenu.ps1" | iex
+irm "https://duyxyz.github.io/DB.ps1" | iex
 ```
