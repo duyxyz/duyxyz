@@ -1,3 +1,3 @@
 ```
-irm "https://duyxyz.github.io/tool.ps1" | iex
+irm "https://duyxyz.github.io/winutil.ps1" | iex
 ```
